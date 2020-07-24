@@ -37,6 +37,7 @@ ORG   |   87.61 |  86.10 |  86.85
 PERSON |  94.46 |  95.72 |  95.09
 MISC |     78.75 |  78.31 |  78.53
 **all**   | **89.16** | **90.10** | **89.63**
+
 **Best performance metrics in % for spaCy in elNER-4.**
 
 ### spaCy model elNER18
@@ -62,6 +63,7 @@ LAW           |  90.00 |  64.29 |  75.00
 PRODUCT       |  76.92 |  72.29 |  74.53
 LANGUAGE      | 100.00 |  88.89 |  94.12
 **all**           | **90.93**  | **91.14**  | **91.04**
+
 **Best performance metrics in % for spaCy in elNER-18.**
 
 ## Citation
