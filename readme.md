@@ -80,3 +80,5 @@ if you use this dataset in your machine learning experiments please cite this wo
 ## Credits
 Authors:
 Nikos Bartziokas, Thanassis Mavropoulos, Constantine Kotropoulos
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
