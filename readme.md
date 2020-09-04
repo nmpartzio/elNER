@@ -80,10 +80,10 @@ if you use this dataset in your machine learning experiments please cite this wo
   location = {Athens, Greece},
   series = {SETN 2020}
   isbn = {9781450388788},
-  publisher 	= {Association for Computing Machinery},
-  address 	= {New York, NY, USA},
-  url 	= { https://doi.org/10.1145/3411408.3411437},
-  doi 	= {10.1145/3411408.3411437},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = { https://doi.org/10.1145/3411408.3411437},
+  doi = {10.1145/3411408.3411437},
 }
 ```
 ## Presentation slides 
