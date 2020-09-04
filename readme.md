@@ -74,7 +74,7 @@ if you use this dataset in your machine learning experiments please cite this wo
 @InProceedings{bartziokas2020datasets,
   author = {Nikos Bartziokas and Thanassis Mavropoulos and Constantine Kotropoulos},
   title = {{Datasets and Performance Metrics for Greek Named Entity Recognition}},
-  booktitle = {11th Hellenic Conference on Artificial Intelligence (SETN 2020)}},
+  booktitle = {{11th Hellenic Conference on Artificial Intelligence (SETN 2020)}},
   pages = {160-167},
   year   = {2020},
   location = {Athens, Greece},
@@ -82,10 +82,13 @@ if you use this dataset in your machine learning experiments please cite this wo
   isbn = {9781450388788},
   publisher = {Association for Computing Machinery},
   address = {New York, NY, USA},
-  url = { https://doi.org/10.1145/3411408.3411437},
+  url = {https://doi.org/10.1145/3411408.3411437},
   doi = {10.1145/3411408.3411437},
 }
 ```
+## Paper
+https://dl.acm.org/doi/10.1145/3411408.3411437 
+
 ## Presentation slides 
 https://nmpartzio.github.io/elner_slides/index.html#/  
 
