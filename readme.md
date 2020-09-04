@@ -71,12 +71,27 @@ LANGUAGE      | 100.00 |  88.89 |  94.12
 if you use this dataset in your machine learning experiments please cite this work by using the following bibtex entry:
 
 ```bibtex
-@article{bartziokas2020datasets,
+@InProceedings{bartziokas2020datasets,
   author = {Nikos Bartziokas and Thanassis Mavropoulos and Constantine Kotropoulos},
-  title  = {{Datasets and Performance Metrics for Greek Named Entity Recognition}},
+  title = {{Datasets and Performance Metrics for Greek Named Entity Recognition}},
+  booktitle = {11th Hellenic Conference on Artificial Intelligence (SETN 2020)}},
+  pages = {160-167},
   year   = {2020},
+  location = {Athens, Greece},
+  series = {SETN 2020}
+  isbn = {9781450388788},
+  publisher 	= {Association for Computing Machinery},
+  address 	= {New York, NY, USA},
+  url 	= { https://doi.org/10.1145/3411408.3411437},
+  doi 	= {10.1145/3411408.3411437},
 }
 ```
+## Presentation slides 
+https://nmpartzio.github.io/elner_slides/index.html#/  
+
+## Recorded presentation
+https://drive.google.com/file/d/120k8ZkfdMb_iPIjmSR9V8TJK2N_gczVQ/view 
+
 ## Credits
 Authors:
 Nikos Bartziokas, Thanassis Mavropoulos, Constantine Kotropoulos
